@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: eureka-server
+  zipkin:
+    base-url: http://zipkin:9411
+
+server:
+  port: 8761
+
+#Configure this as Eureka Server. So this project will not fetch the service registry and not register with eureka as its server.
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false

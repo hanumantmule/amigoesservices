@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8¬¢÷éĞ1
+j
+java:S1128"HRemove this unused import 'com.amigoescode.amqp.RabitMQMessageProducer'.(ãçĞıÿÿÿÿ8Ä¢÷éĞ1
+d
+java:S1128"GRemove this unused import 'org.springframework.boot.CommandLineRunner'.(È—ÿÅ8Å¢÷éĞ1
+u
+java:S1128"SRemove this unused import 'org.springframework.cloud.openfeign.EnableFeignClients'.(Š˜Â®ıÿÿÿÿ8Ç¢÷éĞ1
+e
+java:S1128	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8Ç¢÷éĞ1
